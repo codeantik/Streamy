@@ -33,6 +33,6 @@ const Thumbnail = ({ result }) => {
             </div>
         </div>
     )
-}
+};
 
 export default Thumbnail
