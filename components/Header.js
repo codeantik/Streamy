@@ -26,6 +26,7 @@ const Header = () => {
                 src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Microsoft_Stream.svg"
                 width={100}
                 height={50}
+                alt="logo"
             />
         </header>
     )
